@@ -1,5 +1,4 @@
-====
-Convert array into object
+# Convert array into object
 
 ## Problem #1
 
