@@ -1,12 +1,11 @@
-====
-Convert array into object
+# Convert array into object
 
 ## Problem #1
 
 One array is given:
 
 ```javascript
-const tuple1 = ["name", "Viktor"];
+const tupleName = ["name", "Viktor"];
 ```
 
 Make an object:
@@ -22,8 +21,8 @@ const object = {
 Two arrays are given:
 
 ```javascript
-const tuple1 = ["name", "Viktor"];
-const tuple2 = ["age", 12];
+const tupleName = ["name", "Viktor"];
+const tupleAge = ["age", 12];
 ```
 
 Make an object:
@@ -40,9 +39,9 @@ const object = {
 Three arrays are given:
 
 ```javascript
-const tuple1 = ["name", "Viktor"];
-const tuple2 = ["age", 12];
-const tuple3 = ["school", "Optima"];
+const tupleName = ["name", "Viktor"];
+const tupleAge = ["age", 12];
+const tupleSchool = ["school", "Optima"];
 ```
 
 Make an object:
